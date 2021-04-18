@@ -1,0 +1,1 @@
+npm run server:prod && NODE_ENV=development nodemon  ./dist/server/app.js
